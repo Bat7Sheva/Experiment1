@@ -1,0 +1,14 @@
+C:\Users\batshevae\Desktop\Kada\ExperimentalProjects\Experiment1\Experiment1\bin\Debug\net8.0\Experiment1.exe
+C:\Users\batshevae\Desktop\Kada\ExperimentalProjects\Experiment1\Experiment1\bin\Debug\net8.0\Experiment1.deps.json
+C:\Users\batshevae\Desktop\Kada\ExperimentalProjects\Experiment1\Experiment1\bin\Debug\net8.0\Experiment1.runtimeconfig.json
+C:\Users\batshevae\Desktop\Kada\ExperimentalProjects\Experiment1\Experiment1\bin\Debug\net8.0\Experiment1.dll
+C:\Users\batshevae\Desktop\Kada\ExperimentalProjects\Experiment1\Experiment1\bin\Debug\net8.0\Experiment1.pdb
+C:\Users\batshevae\Desktop\Kada\ExperimentalProjects\Experiment1\Experiment1\obj\Debug\net8.0\Experiment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batshevae\Desktop\Kada\ExperimentalProjects\Experiment1\Experiment1\obj\Debug\net8.0\Experiment1.AssemblyInfoInputs.cache
+C:\Users\batshevae\Desktop\Kada\ExperimentalProjects\Experiment1\Experiment1\obj\Debug\net8.0\Experiment1.AssemblyInfo.cs
+C:\Users\batshevae\Desktop\Kada\ExperimentalProjects\Experiment1\Experiment1\obj\Debug\net8.0\Experiment1.csproj.CoreCompileInputs.cache
+C:\Users\batshevae\Desktop\Kada\ExperimentalProjects\Experiment1\Experiment1\obj\Debug\net8.0\Experiment1.dll
+C:\Users\batshevae\Desktop\Kada\ExperimentalProjects\Experiment1\Experiment1\obj\Debug\net8.0\refint\Experiment1.dll
+C:\Users\batshevae\Desktop\Kada\ExperimentalProjects\Experiment1\Experiment1\obj\Debug\net8.0\Experiment1.pdb
+C:\Users\batshevae\Desktop\Kada\ExperimentalProjects\Experiment1\Experiment1\obj\Debug\net8.0\Experiment1.genruntimeconfig.cache
+C:\Users\batshevae\Desktop\Kada\ExperimentalProjects\Experiment1\Experiment1\obj\Debug\net8.0\ref\Experiment1.dll
